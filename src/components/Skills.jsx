@@ -1,7 +1,7 @@
 // import React from 'react'
 
 const Skills = () => {
-  return <div>Skills</div>;
+  return <section aria-label="Tech Stack">Skills</section>;
 };
 
 export default Skills;

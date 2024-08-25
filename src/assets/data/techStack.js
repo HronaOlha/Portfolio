@@ -1,0 +1,16 @@
+// import React from "../images/react.png";
+// import NextJS from "../images/nextjs.png";
+// import Html from "../images/html.png";
+// import Css from "../images/css.png";
+// import Js from "../images/js.png";
+// import Ts from "../images/ts.png";
+// import Redux from "../images/redux.png";
+// import Tailwind from "../images/tailwind.png";
+// import Sass from "../images/sass.png";
+// import Github from "../images/github.png";
+// import Figma from "../images/figma.png";
+// import Git from "../images/git.png";
+// import Postman from "../images/postman.png";
+// import Webpack from "../images/webpack.png";
+// import Docker from "../images/docker.png";
+// import Mongodb from "../images/mongodb.png";
