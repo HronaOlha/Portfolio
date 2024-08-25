@@ -5,7 +5,7 @@ const Header = () => {
     <header className="flex flex-wrap items-center justify-center">
       <div className="w-[300px]">
         <h1 className="text-[32px]">Hrona Olha</h1>
-        <h2 className="mt-9 text-2xl">Junior front-end developer</h2>
+        <h2 className="mt-5 text-2xl">Junior front-end developer</h2>
       </div>
       <img
         src={faceImage}

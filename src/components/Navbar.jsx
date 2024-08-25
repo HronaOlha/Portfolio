@@ -1,4 +1,4 @@
-export const Navbar = () => {
+const Navbar = () => {
   return (
     <nav className="container mt-10">
       <ul className="flex justify-between">
@@ -24,3 +24,5 @@ export const Navbar = () => {
     </nav>
   );
 };
+
+export default Navbar;
